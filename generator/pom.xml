@@ -10,8 +10,8 @@
         <version>2.5.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <artifactId>bss-market-generator</artifactId>
-    <groupId>com.sitech.crmtpd</groupId>
+    <artifactId>mybatis-generator</artifactId>
+    <groupId>com.sports.house</groupId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
